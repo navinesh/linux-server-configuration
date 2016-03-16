@@ -1,10 +1,11 @@
 # Linux server configuration
-Python web application running on a Ubuntu Linux Server virtual machine on Amazon AWS.
+Python web application built using Flask microframework running on a Ubuntu linux server virtual machine on Amazon AWS.
 
 The application provides list of items within a variety of categories.
 
 It integrates Google and Facebook third party user registration and authentication. Authenticated users have the ability to post, edit, and delete their own categories and items.
 
+###Server access details
 IP address: 52-36-54-55
 
 SSH port: 2200
