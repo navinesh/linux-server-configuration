@@ -25,6 +25,9 @@ Web application URL: http://ec2-52-36-54-55.us-west-2.compute.amazonaws.com/
 * psycopg2
 * fail2ban
 * cron-apt
+* nagios
+* munin
+* monit
 
 
 
