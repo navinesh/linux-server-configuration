@@ -1,5 +1,5 @@
 # Linux server configuration
-Python web application built using Flask microframework running on a Ubuntu linux server virtual machine on Amazon AWS.
+Python web application developed using Flask microframework running on a Ubuntu linux server virtual machine on Amazon AWS.
 
 The application provides list of items within a variety of categories.
 
