@@ -30,7 +30,11 @@ Web application URL: http://ec2-52-36-54-55.us-west-2.compute.amazonaws.com/
  - changed SSH port to 2200
 * munin
 * monit
- - configured monit to monitor apache, postgres and ssh services.
+ - configured monit to monitor:
+ * apache
+ * postgres 
+ * ssh
+ * fail2ban
 
 
 
