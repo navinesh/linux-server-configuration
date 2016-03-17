@@ -24,10 +24,10 @@ Web application URL: http://ec2-52-36-54-55.us-west-2.compute.amazonaws.com/
 * sqlalchemy
 * psycopg2
 * fail2ban
- - changed SSH port to 2200 to monitor
+ - changed SSH port to 2200
 * cron-apt
 * nagios
- - changed SSH port to 2200 to monitor
+ - changed SSH port to 2200
 * munin
 * monit
  - configured monit to monitor apache, postgres and ssh services.
